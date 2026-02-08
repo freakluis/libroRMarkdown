@@ -1,0 +1,22 @@
+---
+title: "Libro FaM tercer nivel"
+author: "José Luis Sánchez García"
+date: "2026-01-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducción
+Este libro fue creado con base en los apuntes con los que se ha dado la materia de "Alemán III" en la FaM y sigue de cerca el programa de la materia que puede encontrarse en el siguiente [enlace]<https://www.fam.unam.mx/oferta-educativa/licenciatura/pdf/canto/semestre_7/aleman_3.pdf>
+
+Concepto del libro: este libro está creado con los apuntes con los que se da la materia de alemán 3 y tiene una especial referencia a lo que tienen que saber los cantantes para interpretar el alemán.
+
+Capítulo 1: El dativo en el alemán
+Ejercicios de dativo
+Ejercicios integrativos con nominativo y acusativo.
+
+Capítulo 2: El alemán estándar.
+- Qué es el alemán estándar
