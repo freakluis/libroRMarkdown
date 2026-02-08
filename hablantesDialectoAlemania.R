@@ -10,7 +10,7 @@ library(dplyr)
 #setwd("/Users/luissanchez/Library/CloudStorage/Dropbox/mapasEnRStudio/de_shp")
 
 ### Directorio para el trabajo en linux:
-setwd("/home/luiss/Dropbox/mapasEnRStudio/de_shp")
+setwd("/home/luiss/Descargas/github/libroRMarkdown/de_shp")
 options (scipen = 999)
 
 # mydata <- readr::read_csv("medianIncomeCaliforniaByCounty2.csv")
